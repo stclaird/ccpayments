@@ -1,0 +1,49 @@
+/* 
+    Created on : 18-Dec-2014, 21:28:28
+    Author     : stclaird
+*/
+#ccpaymentForm em {
+    color: #ff0000;
+    padding-left: 10px;
+    
+}
+
+#ccpaymentForm input[type="text"] {
+    color: #000;
+    background: #fff;
+    border: 3px solid #e1e1e1;
+    padding: 5px;
+    width: 260px;
+} 
+
+#ccpaymentForm select {
+    color: #000;
+    background: #fff;
+    border: 3px solid #e1e1e1;
+    padding: 5px;
+    width: 110px;
+} 
+
+#ccpaymentForm .dateselect {
+    color: #000;
+    background: #fff;
+    border: 3px solid #e1e1e1;
+    padding: 5px;
+    width: 90px;    
+    font-size: 0.9em;
+}
+
+#ccpaymentForm .standard-checkout {
+    padding: 10px;
+}
+
+#ccpaymentForm .smallnum {
+    padding: 10px;
+    width: 70px !important;
+    font-size: 0.9em;
+}
+
+.error {
+    padding-left: 10px;
+    color: #ff0000;
+}
